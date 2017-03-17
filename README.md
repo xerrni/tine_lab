@@ -1,17 +1,8 @@
 # Konfiguracja tuneli SSH na macos i linux LAB TINE
 
-
-Jeżeli nie mamy pliku config:
-
-`mkdir ~/.ssh`
-
-`touch ~/.ssh/config`
-
-`chmod 777 ~/.ssh/config`
-
 Pobieramy skrypt: 
 
-`sudo wget -O /bin/`
+`sudo wget https://raw.githubusercontent.com/xerrni/tine_lab/master/tine_lab.sh -O /bin/`
 
 Dodajemy uprawnienia wynonywania:
 
