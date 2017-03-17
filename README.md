@@ -2,7 +2,7 @@
 
 Pobieramy skrypt: 
 
-`sudo wget https://raw.githubusercontent.com/xerrni/tine_lab/master/tine_lab.sh -O /bin/`
+`sudo wget https://raw.githubusercontent.com/xerrni/tine_lab/master/tine_lab.sh -O /bin/tine_lab.sh`
 
 Dodajemy uprawnienia wynonywania:
 
